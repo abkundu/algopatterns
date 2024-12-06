@@ -1,0 +1,2 @@
+# algopatterns
+Core algorithm patterns
